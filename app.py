@@ -152,8 +152,4 @@ if st.session_state.get("datos_cargados"):
 else:
     st.warning("👈 Presiona **'Cargar Datos'** en el panel lateral para comenzar.")
 
-st.markdown("---")
-st.caption(
-    "⚠️ Los datos son simulaciones con fines académicos y no constituyen asesoría de inversión. · "
-    "Curso ADA — FISI — UNMSM · Prof. Mg. Ing. Ernesto D. Cancho-Rodríguez, MBA"
-)
+
