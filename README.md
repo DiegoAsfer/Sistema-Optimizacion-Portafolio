@@ -24,7 +24,7 @@ Proyecto desarrollado para el curso **Análisis y Diseño de Algoritmos (ADA)** 
 |---|---|
 | ... | ... |
 | Martines Cancho, Josue | ... |
-| ... | ... |
+| Languasco Llauca, Ariana Milagros | 24200225 |
 | ... | ... |
 
 ---
